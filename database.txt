@@ -1,0 +1,6 @@
+DB :
+
+-Login: idUser, userName, password
+-stokbarang: idBarang, namaBarang, spesifikasi, merk, satuan, awal, masuk, keluar, akhir
+-masuk: idMasuk, idBarang, tanggalMasuk, keterangan
+-keluar: idKeluar, idBarang, tanggal, penerima
